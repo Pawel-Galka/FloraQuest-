@@ -28,16 +28,14 @@ The core of the app is the user's personal plant collection.
 * **Smart Sorting:** Plants can be sorted alphabetically or by "thirst level," ensuring that the plants needing the most urgent care are always at the top of the feed.
 * **Daily Quests:** A dynamic header tracks the percentage of thriving plants versus those that need water, offering a quick visual summary of the day's tasks.
 
-<!-- Tip: Place a screenshot or GIF of the Windowsill here -->
-<!-- <img src="link_to_image_or_gif" width="300" /> -->
+<img src="Windowsill.jpg" width="300" />
 
 ### 2. Gamified Plant Care
 Watering a plant triggers a highly rewarding, custom-built animation system. 
 * **Particle Engine:** I engineered a lightweight, randomized particle system (leaves and sparkles) that erupts on the screen when a plant is watered.
 * **Progression System:** Users earn "Glows" (XP) and maintain a watering streak, displayed in a frosted-glass top navigation bar.
 
-<!-- Tip: Place a GIF of the watering animation here -->
-<!-- <img src="link_to_watering_gif" width="300" /> -->
+<img src="WateringAnim.jpg" width="300" />
 
 ### 3. Gesture-Driven Plant Deep Dive
 When a user taps on a plant, they are greeted with a beautifully animated, highly detailed bottom sheet.
